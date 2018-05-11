@@ -1,0 +1,56 @@
+update=INSERT DATA { 
+  GRAPH <http://vitro.mannlib.cornell.edu/default/vitro-kb-2> { 
+<http://openvivo.org/a/orcid0000-0003-3320-5187#search-form> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#search> .
+<http://openvivo.org/a/orcid0000-0003-3320-5187#share-contact> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#region> .
+_:Ne657d08dddba419da18585ce717cad28 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#navigation> .
+<http://openvivo.org/a/orcid0000-0003-3320-5187#orcidId-noRangeClass-List> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#list> .
+<http://openvivo.org/a/orcid0000-0003-3320-5187#ARG_2000028-Name-List> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#list> .
+_:Nb7314fcbdcab427fbe3a6193c9afe31c <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#listitem> .
+_:Ncfe6c23bdcdf48e8b92eec69a0ca8e12 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#listitem> .
+<http://openvivo.org/a/orcid0000-0003-3320-5187#branding> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#banner> .
+<http://openvivo.org/a/orcid0000-0003-3320-5187#publications> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#region> .
+_:N41e0545523864920a429049393c3aa4f <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#listitem> .
+<http://openvivo.org/a/orcid0000-0003-3320-5187> <http://www.w3.org/ns/md#item> _:N9fcdad90dfc0465fb1fd7bf0e3aa085a .
+<http://openvivo.org/a/orcid0000-0003-3320-5187> <http://www.w3.org/ns/rdfa#usesVocabulary> <http://schema.org/> .
+_:N4566822742eb4fbb8ab88cf8b7a51ef5 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#listitem> .
+_:N166c4cb29afc48fd95a35435926b8f49 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#article> .
+_:N9fcdad90dfc0465fb1fd7bf0e3aa085a <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:N818b1363158545c4a4a95f17b90260bc .
+_:N9fcdad90dfc0465fb1fd7bf0e3aa085a <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:N7a1e66dc54ca4280aad9f05a78c8e948 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#article> .
+<http://openvivo.org/a/orcid0000-0003-3320-5187#contact> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#region> .
+<http://openvivo.org/a/orcid0000-0003-3320-5187#right-hand-column> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#region> .
+<http://openvivo.org/a/orcid0000-0003-3320-5187#individual-intro> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#region> .
+<http://openvivo.org/a/orcid0000-0003-3320-5187#wrapper-content> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#main> .
+_:Na9891adfd6894f24b8fd32113351a836 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#article> .
+_:Nce94fcc047224f20acb88119501d7e61 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#listitem> .
+<http://openvivo.org/a/orcid0000-0003-3320-5187#individual-info> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#region> .
+<http://openvivo.org/a/orcid0000-0003-3320-5187#identity> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#region> .
+<http://openvivo.org/a/orcid0000-0003-3320-5187#footer-nav> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#list> .
+_:N4494ebc260a94f6b92e2e2e2acabf429 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#navigation> .
+<http://openvivo.org/a/orcid0000-0003-3320-5187#scroller> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#navigation> .
+_:Ne2e59287e5424d8f983d5f1aedfbe237 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#contentinfo> .
+<http://openvivo.org/a/orcid0000-0003-3320-5187#header-nav> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#list> .
+_:N47f384d56ef64ddcb9421b1a7d1d2fac <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#listitem> .
+_:N802544e0c4df4d67a9177ee79028f032 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#listitem> .
+<http://openvivo.org/a/orcid0000-0003-3320-5187#main-nav> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#list> .
+_:Na6e55e8cee3b4a61850eacc306718dc3 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#listitem> .
+_:N84d86d4a9e5643b79fb7f6d6a7d1594a <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#listitem> .
+_:N7d6fcaeb2bf34ec885f6e01874aeb1d2 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#listitem> .
+<http://openvivo.org/a/orcid0000-0003-3320-5187#RO_0001025-GeographicLocation-List> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#list> .
+_:N818b1363158545c4a4a95f17b90260bc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:N818b1363158545c4a4a95f17b90260bc <http://schema.org/name> "    Strötgen, Robert\n"@en .
+_:Ne4743624096f44ffae3ef78eafbb5835 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#listitem> .
+_:N1e674b422b7c4b1a8bb7434b19a5e210 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#listitem> .
+_:Nb38029b8d92e4f7ab5f2e6adc7c76723 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#listitem> .
+<http://openvivo.org/a/orcid0000-0003-3320-5187#relatedBy-Authorship-List> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#list> .
+_:N41276f4a54e347539c69599c6ed9234f <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#listitem> .
+_:Nf49a1c070a4d4b22ada0615926e9a628 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#listitem> .
+_:Nb6895090bf3543eb8d81c440a7198116 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#listitem> .
+_:N2854019f6e0748fb809e5b57787d8f19 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#article> .
+_:N1410a2bdfc884030b44ab6280dbd5385 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#listitem> .
+_:N9f4396e3f7ce4aeab367016f6b4be5e9 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#navigation> .
+_:N7fe2c7d65f42414193fdcd914e1e9946 <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#listitem> .
+<http://openvivo.org/a/orcid0000-0003-3320-5187#search> <http://www.w3.org/1999/xhtml/vocab#role> <http://www.w3.org/1999/xhtml/vocab#region> .
+
+  }
+}
